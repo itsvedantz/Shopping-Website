@@ -14,5 +14,3 @@ HTML: Used for structuring the website's pages and content.
 CSS: Utilized for styling and enhancing the visual appeal of the website.
 JavaScript: Implemented for interactive features such as dynamic page elements and form validation.
 PHP: Employed for server-side scripting, handling user authentication, managing database interactions, and implementing business logic.
-
-![Image1](https://github.com/MohiiiiiiT/Clothes_Shopping_Website/Main_PHP Project/Images/Screenshot 2024-04-22 165543.png)
