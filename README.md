@@ -15,5 +15,7 @@ CSS: Utilized for styling and enhancing the visual appeal of the website.
 JavaScript: Implemented for interactive features such as dynamic page elements and form validation.
 PHP: Employed for server-side scripting, handling user authentication, managing database interactions, and implementing business logic.
 
-<img width="312" alt="Screenshot 2024-04-22 165634" src="https://github.com/MohiiiiiiT/Shopping-Website/assets/143997171/99b02a14-81aa-417b-8138-1bfe82419128">
+
 <img width="313" alt="Screenshot 2024-04-22 165543" src="https://github.com/MohiiiiiiT/Shopping-Website/assets/143997171/26c141cb-9f83-423f-81e7-bb2e21a6a1de">
+
+<img width="312" alt="Screenshot 2024-04-22 165634" src="https://github.com/MohiiiiiiT/Shopping-Website/assets/143997171/99b02a14-81aa-417b-8138-1bfe82419128">
